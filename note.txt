@@ -1,0 +1,15 @@
+This is the output that is located at the header when we submit a html form:
+
+
+FirstName=Kelvin
+&Last+Name=Tony
+&email=kelvin%40gmail.com
+&Password=Azu%40479ndah
+&Gender=male
+&cat=on
+&dogs=on
+&Belts=Nike
+&Cars=Audi
+//
+//
+//
